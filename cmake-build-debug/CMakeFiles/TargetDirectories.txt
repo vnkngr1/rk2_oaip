@@ -1,0 +1,3 @@
+/Users/ivangarsin/Downloads/rk2_oaip_variant5/cmake-build-debug/CMakeFiles/rk2_oaip.dir
+/Users/ivangarsin/Downloads/rk2_oaip_variant5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivangarsin/Downloads/rk2_oaip_variant5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
